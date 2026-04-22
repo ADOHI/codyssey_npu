@@ -1,0 +1,3 @@
+EPSILON = 1e-9
+PERF_REPEAT = 10
+STANDARD_LABELS = ("Cross", "X")
